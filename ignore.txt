@@ -1,0 +1,9 @@
+##
+Instalar requirements en maquina virtual
+
+pip install requests
+pip install beautifulsoup4
+##
+
+python -m venv venv
+venv\Scripts\activate
