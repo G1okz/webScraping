@@ -25,3 +25,10 @@ Instala las dependencias ejecutando:
 
 ```bash
 pip install requests beautifulsoup4
+
+## ⚙️ Instalación
+Clonar el repositorio:
+
+```bash
+git clone https://github.com/G1okz/webScraping.git
+
