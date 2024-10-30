@@ -25,6 +25,7 @@ Instala las dependencias ejecutando:
 
 ```bash
 pip install requests beautifulsoup4
+```
 
 ## ⚙️ Instalación
 Clonar el repositorio:
