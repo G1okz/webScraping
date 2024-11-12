@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 Práctica Web Scraping de una página web de noticias.
 Muestra el título, contenido y una lista de elementos de la página.
 
+@Important: Este script está diseñado para fines educativos y de aprendizaje.
+
 @author: Miguel Reyna
 """
 
